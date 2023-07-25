@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EazyKart/static/css/main.fb5ec835.css",
+    "main.js": "/EazyKart/static/js/main.d9796c03.js",
+    "static/media/banner-img.png": "/EazyKart/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/EazyKart/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "index.html": "/EazyKart/index.html",
+    "main.fb5ec835.css.map": "/EazyKart/static/css/main.fb5ec835.css.map",
+    "main.d9796c03.js.map": "/EazyKart/static/js/main.d9796c03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb5ec835.css",
+    "static/js/main.d9796c03.js"
+  ]
+}
